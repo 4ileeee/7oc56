@@ -1,7 +1,9 @@
 ---
 title: '000'
 date: 2022-02-10 11:09:00 Z
+published: false
 Field name: 
+layout: page
 ---
 
 *000*
